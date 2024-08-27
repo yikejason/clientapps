@@ -1,0 +1,7 @@
+/target/
+/dist/
+/static/
+/.dioxys/
+
+**/*rs.bk
+node_modules
