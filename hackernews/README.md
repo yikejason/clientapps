@@ -15,3 +15,9 @@ dx serve --hot-reload
 ```
 
 - Open the browser to http://localhost:8080
+
+
+translate html into rsx
+```bash
+dx translate --file htmls/main.html
+```
